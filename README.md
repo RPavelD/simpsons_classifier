@@ -15,5 +15,8 @@
 	> ![alt text](https://github.com/RPavelD/simpsons_classifier/blob/master/info/speed.png)
 
 - Качество распознования на неизвестных данных
-	> Результат на приватных данных соревнования kaggle (https://www.kaggle.com/competitions/journey-springfield)
-	> изображение
+	> Результат на соревновании kaggle (https://www.kaggle.com/competitions/journey-springfield)
+ 	> ![alt text](https://github.com/RPavelD/simpsons_classifier/blob/master/info/result_kaggle.png)
+
+
+
