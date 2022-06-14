@@ -12,4 +12,4 @@
 ## Эффективность
 - Скороcть обработки 100 запросов занимает около 7 секунд
 
-![alt text](https://github.com/RPavelD/simpsons_classifier/blob/master/info/speed.png)
+	> ![alt text](https://github.com/RPavelD/simpsons_classifier/blob/master/info/speed.png)
