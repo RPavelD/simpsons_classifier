@@ -13,6 +13,7 @@
 - Скороcть обработки 100 запросов занимает около 8 секунд
 	> OS: ubuntu 18.04
 	> Graphics Processor: NVIDIA GeForce MX230
+	> 
 	> ![alt text](https://github.com/RPavelD/simpsons_classifier/blob/master/info/speed.png)
 
 - Качество распознования на неизвестных данных
